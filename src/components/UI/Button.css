@@ -1,0 +1,13 @@
+button{
+    background-color: #9B2915;
+    color: white;
+    border:none;
+    height: 2rem;
+    width: 10rem;
+    font-size: large;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 0.5rem;
+    padding: 5px;
+
+    
+}

@@ -1,0 +1,16 @@
+.searchField{
+    background-color: #1c110A;
+    display: flex;
+    justify-content: center;
+    height :50px;
+    align-items: center;
+    
+}
+.searchField label{
+    color: white;
+    margin-right: 10px;
+}
+.searchField input{
+   width: 300px;
+    height: 30px;
+}

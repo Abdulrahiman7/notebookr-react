@@ -1,0 +1,23 @@
+.addNewForm{
+    background-color: #1C110A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 300px;
+}
+.addNewForm form{
+    display:grid;
+    color: white;
+}
+.addNewForm label{
+    font-size: larger;
+    margin: 15px;
+}
+.addNewForm input{
+    width: 300px;
+    margin-bottom: 10px;
+}
+.addNewForm button{
+    margin-top: 10px;
+}
